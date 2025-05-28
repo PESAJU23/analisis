@@ -1,0 +1,5 @@
+# Color principal para el proyecto
+# Nombre: azul agua marina 
+# Hex: #00bfc0
+
+#00bfc0

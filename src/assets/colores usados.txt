@@ -1,0 +1,17 @@
+Colores principales de la aplicación:
+
+- Fondo global: #000606
+- Fondo de paneles: #0a1a18
+- Color primario/acento: #15aa99
+- Color secundario: #1e2e2c
+- Divider (separador): #12322e
+- Texto secundario: #b0d1cb
+
+Tipografía recomendada:
+- Montserrat
+- Poppins
+- Roboto
+
+(Sugerencia: Usa Google Fonts en tu index.html para mejores resultados).
+
+Nota: Puedes ajustar los tonos secundarios según tu preferencia visual.
