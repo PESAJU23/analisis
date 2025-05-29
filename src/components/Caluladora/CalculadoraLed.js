@@ -196,6 +196,23 @@ const ProyectoForm = () => {
                   margin="normal"
                 />
               </Grid>
+            </Grid>
+          </Paper>
+        ))}
+        {muebles.map((mueble, index) => (
+          <Paper
+            key={index}
+            sx={{
+              padding: 2,
+              marginTop: 2,
+              borderRadius: 2,
+              bgcolor: 'background.default'
+            }}
+          >
+            <Typography variant="subtitle1" fontWeight="bold" sx={{ mb: 1 }}>
+              Consumo{index + 1}
+            </Typography>
+            <Grid container spacing={2}>
               <Grid item xs={12} sm={6} md={4}>
                 <TextField
                   sx={{ width: 220 }}
